@@ -1,0 +1,1 @@
+string userName = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
